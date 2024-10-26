@@ -16,7 +16,7 @@ Puoi scaricare la presentazione e la documentazione associata dai seguenti link:
 - [Scarica il report](https://drive.google.com/uc?export=download&id=1rl8tZNwn3fm_6j3MxY-gxs6Vfts6ap5N)
 
 ## Istruzioni per la documentazione
-La documentazione è disponibile direttamente nel repository. Per accedervi, segui questi passaggi:
+La documentazione è disponibile anche direttamente nel repository. Per accedervi, segui questi passaggi:
 
 1. Clona il repository:
    ```bash
